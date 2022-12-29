@@ -22,9 +22,9 @@ dependencies {
     implementation("io.github.monun:tap-api:4.7.3")
     implementation("io.github.monun:kommand-api:2.14.0")
     implementation("io.github.monun:invfx-api:3.2.0")
-    compileOnly("net.kyori:adventure-api:4.11.0")
-    implementation("com.github.shynixn.mccoroutine:mccoroutine-bukkit-api:2.6.0")
-    implementation("com.github.shynixn.mccoroutine:mccoroutine-bukkit-core:2.6.0")
+    compileOnly("net.kyori:adventure-api:4.12.0")
+    implementation("com.github.shynixn.mccoroutine:mccoroutine-bukkit-api:2.9.0")
+    implementation("com.github.shynixn.mccoroutine:mccoroutine-bukkit-core:2.9.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
     implementation(kotlin("reflect"))
 }
